@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Context>
+<Context path='/toysforboys'>
+<Resource name='jdbc/toysforboys' type='javax.sql.DataSource' driverClassName='com.mysql.jdbc.Driver' 
+		  url='jdbc:mysql://localhost/toysforboys' username='cursist' password='cursist' closeMethod='close'/>
+</Context>
